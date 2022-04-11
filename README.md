@@ -4,3 +4,8 @@ A python based Selenium application which helps users to keep an eye on closed/b
 # Requirements:
 1. Python 3.x.
 2. Google chrome driver is compatible with your browser.
+
+Notes:
+
+Please make sure you are inserting the full url
+Please make sure you have installed all the modules
