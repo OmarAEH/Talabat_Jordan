@@ -7,5 +7,5 @@ A python based Selenium application which helps users to keep an eye on closed/b
 
 Notes:
 
-Please make sure you are inserting the full url
-Please make sure you have installed all the modules
+1. Please make sure you are inserting the full url
+2. Please make sure you have installed all the modules
